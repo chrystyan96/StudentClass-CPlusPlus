@@ -1,0 +1,3 @@
+﻿  StudentProject.cpp
+C:\Users\Administrator\Documents\C++\StudentProject\StudentProject\StudentProject.cpp(10,19): warning C4305: '=': truncation from 'double' to 'float'
+  StudentProject.vcxproj -> C:\Users\Administrator\Documents\C++\StudentProject\Debug\StudentProject.exe
